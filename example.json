@@ -1,0 +1,9 @@
+{
+   "hello": "world",
+   "zero": "one",
+   "one": "two",
+   "two": "three",
+   "foo": [
+      "bar"
+   ]
+}
